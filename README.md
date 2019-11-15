@@ -1,18 +1,23 @@
 <p align="center">
   <img width="500" src="./logo.svg" alt="Awesome">
-  <br/>
-  
+</p>
+
+<p align="center">
   <a href="#contents-">
     <b>Contents</b>
   </a>
   &middot;
-  <a href="https://twitter.com/@kevinpollet" target="_blank">
+  <a href="https://twitter.com/kevinpollet" target="_blank">
     <b>Follow me</b>
   </a>
   &middot;
   <a href="#license-">
     <b>License</b>
   </a>
+</p>
+
+<p align="center">
+  <b>👉 Inspired by <a href="https://github.com/sindresorhus/awesome" target="_blank">@sindresorhus awesome</a> list.</b>
 </p>
 
 <br/>
