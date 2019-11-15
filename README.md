@@ -1,19 +1,33 @@
 <p align="center">
-  <img width="500" height="350" src="./logo.svg" alt="Awesome">
+  <img width="500" src="./logo.svg" alt="Awesome">
+  <br/>
+  
+  <a href="#contents-">
+    <b>Contents</b>
+  </a>
+  &middot;
+  <a href="https://twitter.com/@kevinpollet" target="_blank">
+    <b>Follow me</b>
+  </a>
+  &middot;
+  <a href="#license-">
+    <b>License</b>
+  </a>
 </p>
 
+<br/>
+<br/>
 
-## Table of Contents <!-- omit in toc -->
+## Contents <!-- omit in toc -->
 
 - [Go](#go)
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
 - [Tools](#tools)
-- [License](#license)
 
 ## Go
 
-- [Go by Example](https://gobyexample.com/) — Mark McGranaghan 
+- [Go by Example](https://gobyexample.com/) — Mark McGranaghan
 - [Functional options for friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis) — Dave Cheney
 
 ## JavaScript
@@ -29,13 +43,13 @@
 
 ## Tools
 
-- [httpie](https://github.com/jakubroztocil/httpie#readme) — HTTPie (pronounced aitch-tee-tee-pie) is a command line HTTP client. 
+- [httpie](https://github.com/jakubroztocil/httpie#readme) — HTTPie (pronounced aitch-tee-tee-pie) is a command line HTTP client.
 
 - [jq](https://github.com/stedolan/jq#readme) — A lightweight and flexible command-line JSON processor.
 
 - [mkcert](https://mkcert.dev) — A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
-## License
+## License <!-- omit in toc -->
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
