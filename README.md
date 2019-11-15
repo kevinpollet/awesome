@@ -48,7 +48,9 @@
 
 ## Tools
 
-- [httpie](https://github.com/jakubroztocil/httpie#readme) — HTTPie (pronounced aitch-tee-tee-pie) is a command line HTTP client.
+- [hey](https://github.com/rakyll/hey#readme) — A tiny program that sends some load to a web application.
+
+- [httpie](https://github.com/jakubroztocil/httpie#readme) — A command line HTTP client.
 
 - [jq](https://github.com/stedolan/jq#readme) — A lightweight and flexible command-line JSON processor.
 
