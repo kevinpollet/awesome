@@ -37,6 +37,7 @@
 ## Go
 
 - [Go by Example](https://gobyexample.com/) — Mark McGranaghan
+- [How to use interfaces in Go](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go) — Jordan Orelli
 - [Functional options for friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis) — Dave Cheney
 
 ## JavaScript
