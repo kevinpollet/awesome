@@ -12,6 +12,7 @@
 
 ## JavaScript
 
+- [Understanding Hoisting in JavaScript](https://scotch.io/tutorials/understanding-hoisting-in-javascript) — Elizabeth Mabishi
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) — Philip Roberts
 - [Further Adventures of the Event Loop](https://www.youtube.com/watch?v=u1kqx6AenYw) — Erin Zimmer
 
