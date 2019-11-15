@@ -8,6 +8,7 @@
 - [Go](#go)
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
+- [Tools](#tools)
 - [License](#license)
 
 ## Go
@@ -25,6 +26,14 @@
 
 - [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs) — Dominik Kundel
 - [Securely using .npmrc files in Docker images](https://www.alexandraulsh.com/2018/06/25/docker-npmrc-security/) — Alexandra Ulsh
+
+## Tools
+
+- [httpie](https://github.com/jakubroztocil/httpie#readme) — HTTPie (pronounced aitch-tee-tee-pie) is a command line HTTP client. 
+
+- [jq](https://github.com/stedolan/jq#readme) — A lightweight and flexible command-line JSON processor.
+
+- [mkcert](https://mkcert.dev) — A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
 ## License
 
