@@ -7,6 +7,10 @@
     <b>Contents</b>
   </a>
   &middot;
+  <a href="https://kevinpollet.dev" target="_blank">
+    <b>My blog</b>
+  </a>
+  &middot;
   <a href="https://twitter.com/kevinpollet" target="_blank">
     <b>Follow me</b>
   </a>
