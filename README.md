@@ -24,6 +24,7 @@
 ## Node.js
 
 - [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs) — Dominik Kundel
+- [Securely using .npmrc files in Docker images](https://www.alexandraulsh.com/2018/06/25/docker-npmrc-security/) — Alexandra Ulsh
 
 ## License
 
