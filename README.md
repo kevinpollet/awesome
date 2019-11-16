@@ -54,11 +54,8 @@
 ## Tools
 
 - [hey](https://github.com/rakyll/hey#readme) — A tiny program that sends some load to a web application.
-
 - [httpie](https://github.com/jakubroztocil/httpie#readme) — A command line HTTP client.
-
 - [jq](https://github.com/stedolan/jq#readme) — A lightweight and flexible command-line JSON processor.
-
 - [mkcert](https://mkcert.dev) — A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 
 ## License <!-- omit in toc -->
