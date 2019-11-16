@@ -39,6 +39,7 @@
 - [Go](#go)
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
+- [Methodology](#methodology)
 - [Tools](#tools)
 
 ## Go
@@ -57,6 +58,11 @@
 
 - [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs) — Dominik Kundel
 - [Securely using .npmrc files in Docker images](https://www.alexandraulsh.com/2018/06/25/docker-npmrc-security/) — Alexandra Ulsh
+
+## Methodology
+
+- [The Twelve-Factor App](https://12factor.net/) — Adam Wiggins
+- [The Twelve-Factor CLI App](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) — Jeff Dickey
 
 ## Tools
 
