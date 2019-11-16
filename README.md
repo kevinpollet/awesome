@@ -25,8 +25,10 @@
   <br/>
   <br/>
   
-  <img src="https://awesome.re/badge.svg" />
-  <img src="https://github.com/kevinpollet/awesome/workflows/build/badge.svg" />
+  <img src="https://awesome.re/badge.svg" alt="awesome" />
+  <img src="https://github.com/kevinpollet/awesome/workflows/build/badge.svg" alt="Build Status" />
+  <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg" alt="Conventional Commits">
+  <img src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg" alt="Code Style">
 </p>
 
 <br/>
