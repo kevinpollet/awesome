@@ -1,27 +1,32 @@
 <p align="center">
-  <img width="500" src="./logo.svg" alt="Awesome">
+  <img width="500" src="assets/logo.svg" alt="Awesome">
 </p>
 
 <p align="center">
   <a href="#contents-">
-    <b>Contents</b>
+    <strong>Contents</strong>
   </a>
-  &middot;
+  •
   <a href="https://kevinpollet.dev" target="_blank">
-    <b>My blog</b>
+    <strong>My blog</strong>
   </a>
-  &middot;
+  •
   <a href="https://twitter.com/kevinpollet" target="_blank">
-    <b>Follow me</b>
+    <strong>Follow me</strong>
   </a>
-  &middot;
+  •
   <a href="#license-">
-    <b>License</b>
+    <strong>License</strong>
   </a>
 </p>
 
 <p align="center">
-  <b>👉 Inspired by <a href="https://github.com/sindresorhus/awesome" target="_blank">@sindresorhus awesome</a> list.</b>
+  Inspired by <a href="https://github.com/sindresorhus/awesome" target="_blank">@sindresorhus awesome</a> list.
+  <br/>
+  <br/>
+  
+  <img src="https://awesome.re/badge.svg" />
+  <img src="https://github.com/kevinpollet/awesome/workflows/.github/workflows/main.yml/badge.svg" />
 </p>
 
 <br/>
