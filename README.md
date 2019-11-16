@@ -26,7 +26,7 @@
   <br/>
   
   <img src="https://awesome.re/badge.svg" />
-  <img src="https://github.com/kevinpollet/awesome/workflows/.github/workflows/main.yml/badge.svg" />
+  <img src="https://github.com/kevinpollet/awesome/workflows/build/badge.svg" />
 </p>
 
 <br/>
