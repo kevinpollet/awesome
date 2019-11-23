@@ -40,6 +40,7 @@
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
 - [Methodology](#methodology)
+- [Security](#security)
 - [Tools](#tools)
 
 ## Go
@@ -63,6 +64,10 @@
 
 - [The Twelve-Factor App](https://12factor.net/) — Adam Wiggins
 - [The Twelve-Factor CLI App](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) — Jeff Dickey
+
+## Security
+
+- [Adding Salt to Hashing: A Better Way to Store Passwords](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/) — Dan Arias
 
 ## Tools
 
