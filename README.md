@@ -39,6 +39,7 @@
 - [Go](#go)
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
+- [Containers](#containers)
 - [Methodology](#methodology)
 - [Security](#security)
 - [Tools](#tools)
@@ -58,6 +59,11 @@
 ## Node.js
 
 - [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs) — Dominik Kundel
+
+## Containers
+
+- [Build Containers the Hard Way](https://containers.gitbook.io/build-containers-the-hard-way/) — Q Chen
+- [How to use your .dockerignore as a whitelist ](https://dev.to/kevinpollet/how-to-use-your-dockerignore-as-a-whitelist-3b77) — Kevin Pollet
 - [Securely using .npmrc files in Docker images](https://www.alexandraulsh.com/2018/06/25/docker-npmrc-security/) — Alexandra Ulsh
 
 ## Methodology
