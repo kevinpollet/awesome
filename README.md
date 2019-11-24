@@ -41,7 +41,6 @@
 - [Node.js](#nodejs)
 - [Containers](#containers)
 - [Methodology](#methodology)
-- [Security](#security)
 - [Tools](#tools)
 
 ## Go
@@ -70,10 +69,8 @@
 
 - [The Twelve-Factor App](https://12factor.net/) — Adam Wiggins
 - [The Twelve-Factor CLI App](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) — Jeff Dickey
-
-## Security
-
 - [Adding Salt to Hashing: A Better Way to Store Passwords](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/) — Dan Arias
+- [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer) — Stefan Judis
 
 ## Tools
 
