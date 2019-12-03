@@ -81,6 +81,7 @@
 - [jq](https://github.com/stedolan/jq#readme) — A lightweight and flexible command-line JSON processor.
 - [mkcert](https://mkcert.dev) — A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [starship](https://starship.rs/) — The cross-shell prompt for astronauts.
+- [termtosvg](https://github.com/nbedos/termtosvg#readme) — A Unix terminal recorder that renders your command line sessions as standalone SVG animations.
 
 ## License <!-- omit in toc -->
 
