@@ -40,6 +40,7 @@
 - [JavaScript](#javascript)
 - [Node.js](#nodejs)
 - [Containers](#containers)
+- [Algorithms & Data structures](#algorithms--data-structures)
 - [Methodology](#methodology)
 - [Tools](#tools)
 
@@ -66,6 +67,11 @@
 - [Difference between Hypervisor Virtualization and Container](https://www.slashroot.in/difference-between-hypervisor-virtualization-and-container-virtualization) — Sarath Pillai
 - [How to use your .dockerignore as a whitelist ](https://dev.to/kevinpollet/how-to-use-your-dockerignore-as-a-whitelist-3b77) — Kevin Pollet
 - [Securely using .npmrc files in Docker images](https://www.alexandraulsh.com/2018/06/25/docker-npmrc-security/) — Alexandra Ulsh
+
+## Algorithms & Data structures
+
+- [Abstract Data Types](https://brilliant.org/wiki/priority-queues/)
+- [Easy to Advanced Data Structures](https://www.udemy.com/course/introduction-to-data-structures/) — William Fiset
 
 ## Methodology
 
