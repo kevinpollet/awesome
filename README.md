@@ -53,6 +53,7 @@
 - [Let's Create a Simple Load Balancer With Go](https://kasvith.me/posts/lets-create-a-simple-lb-go/) - Kasun Vithanage
 - [Frequently Asked Questions (FAQ)](https://golang.org/doc/faq) - golang
 - [Effective Go](https://golang.org/doc/effective_go.html) - golang
+- [Streaming IO in Go](https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185) - Vladimir Vivien
 
 ## JavaScript
 
