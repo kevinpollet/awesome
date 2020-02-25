@@ -47,7 +47,7 @@
 
 ## Algorithms & Data structures
 
-- [Abstract Data Types](https://brilliant.org/wiki/priority-queues/)
+- [Abstract Data Types](https://brilliant.org/wiki/priority-queues/) — Brillant
 - [Easy to Advanced Data Structures](https://www.udemy.com/course/introduction-to-data-structures/) — William Fiset
 
 ## Containers
