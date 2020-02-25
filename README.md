@@ -63,10 +63,10 @@
 - [Gopher Academy Blog](https://blog.gopheracademy.com) — Go community
 - [How to use interfaces in Go](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go) — Jordan Orelli
 - [Functional options for friendly APIs](https://dave.cheney.net/2014/10/17/functional-options-for-friendly-apis) — Dave Cheney
-- [Let's Create a Simple Load Balancer With Go](https://kasvith.me/posts/lets-create-a-simple-lb-go/) - Kasun Vithanage
-- [Frequently Asked Questions (FAQ)](https://golang.org/doc/faq) - golang
-- [Effective Go](https://golang.org/doc/effective_go.html) - golang
-- [Streaming IO in Go](https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185) - Vladimir Vivien
+- [Let's Create a Simple Load Balancer With Go](https://kasvith.me/posts/lets-create-a-simple-lb-go/) — Kasun Vithanage
+- [Frequently Asked Questions (FAQ)](https://golang.org/doc/faq) — golang
+- [Effective Go](https://golang.org/doc/effective_go.html) — golang
+- [Streaming IO in Go](https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185) — Vladimir Vivien
 
 ## JavaScript
 
@@ -76,7 +76,7 @@
 
 ## Messaging
 
-- [When to use RabbitMQ or Apache Kafka](https://www.cloudamqp.com/blog/2019-12-12-when-to-use-rabbitmq-or-apache-kafka.html) - Lovisa Johansson
+- [When to use RabbitMQ or Apache Kafka](https://www.cloudamqp.com/blog/2019-12-12-when-to-use-rabbitmq-or-apache-kafka.html) — Lovisa Johansson
 
 ## Methodology
 
@@ -92,7 +92,7 @@
 
 ## Tools
 
-- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [bat](https://github.com/sharkdp/bat) — A cat(1) clone with wings.
 - [hey](https://github.com/rakyll/hey#readme) — A tiny program that sends some load to a web application.
 - [HTTPie](https://github.com/jakubroztocil/httpie#readme) — A command line HTTP client.
 - [jq](https://github.com/stedolan/jq#readme) — A lightweight and flexible command-line JSON processor.
