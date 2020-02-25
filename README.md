@@ -36,13 +36,25 @@
 
 ## Contents <!-- omit in toc -->
 
+- [Algorithms & Data structures](#algorithms--data-structures)
+- [Containers](#containers)
 - [Go](#go)
 - [JavaScript](#javascript)
-- [Node.js](#nodejs)
-- [Containers](#containers)
-- [Algorithms & Data structures](#algorithms--data-structures)
 - [Methodology](#methodology)
+- [Node.js](#nodejs)
 - [Tools](#tools)
+
+## Algorithms & Data structures
+
+- [Abstract Data Types](https://brilliant.org/wiki/priority-queues/)
+- [Easy to Advanced Data Structures](https://www.udemy.com/course/introduction-to-data-structures/) — William Fiset
+
+## Containers
+
+- [Build Containers the Hard Way](https://containers.gitbook.io/build-containers-the-hard-way/) — Q Chen
+- [Difference between Hypervisor Virtualization and Container](https://www.slashroot.in/difference-between-hypervisor-virtualization-and-container-virtualization) — Sarath Pillai
+- [How to use your .dockerignore as a whitelist ](https://dev.to/kevinpollet/how-to-use-your-dockerignore-as-a-whitelist-3b77) — Kevin Pollet
+- [Securely using .npmrc files in Docker images](https://www.alexandraulsh.com/2018/06/25/docker-npmrc-security/) — Alexandra Ulsh
 
 ## Go
 
@@ -61,29 +73,17 @@
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) — Philip Roberts
 - [Further Adventures of the Event Loop](https://www.youtube.com/watch?v=u1kqx6AenYw) — Erin Zimmer
 
-## Node.js
-
-- [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs) — Dominik Kundel
-- [You should never ever run directly against Node.js in production](https://www.freecodecamp.org/news/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6/) — Burke Holland
-
-## Containers
-
-- [Build Containers the Hard Way](https://containers.gitbook.io/build-containers-the-hard-way/) — Q Chen
-- [Difference between Hypervisor Virtualization and Container](https://www.slashroot.in/difference-between-hypervisor-virtualization-and-container-virtualization) — Sarath Pillai
-- [How to use your .dockerignore as a whitelist ](https://dev.to/kevinpollet/how-to-use-your-dockerignore-as-a-whitelist-3b77) — Kevin Pollet
-- [Securely using .npmrc files in Docker images](https://www.alexandraulsh.com/2018/06/25/docker-npmrc-security/) — Alexandra Ulsh
-
-## Algorithms & Data structures
-
-- [Abstract Data Types](https://brilliant.org/wiki/priority-queues/)
-- [Easy to Advanced Data Structures](https://www.udemy.com/course/introduction-to-data-structures/) — William Fiset
-
 ## Methodology
 
 - [The Twelve-Factor App](https://12factor.net/) — Adam Wiggins
 - [The Twelve-Factor CLI App](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) — Jeff Dickey
 - [Adding Salt to Hashing: A Better Way to Store Passwords](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/) — Dan Arias
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer) — Stefan Judis
+
+## Node.js
+
+- [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs) — Dominik Kundel
+- [You should never ever run directly against Node.js in production](https://www.freecodecamp.org/news/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6/) — Burke Holland
 
 ## Tools
 
