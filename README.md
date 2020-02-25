@@ -92,6 +92,7 @@
 
 ## Tools
 
+- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [hey](https://github.com/rakyll/hey#readme) — A tiny program that sends some load to a web application.
 - [HTTPie](https://github.com/jakubroztocil/httpie#readme) — A command line HTTP client.
 - [jq](https://github.com/stedolan/jq#readme) — A lightweight and flexible command-line JSON processor.
