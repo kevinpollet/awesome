@@ -67,6 +67,7 @@
 - [Frequently Asked Questions (FAQ)](https://golang.org/doc/faq) — golang
 - [Effective Go](https://golang.org/doc/effective_go.html) — golang
 - [Streaming IO in Go](https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185) — Vladimir Vivien
+- [How I write HTTP services after eight years](https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years) — Mat Ryer
 
 ## JavaScript
 
