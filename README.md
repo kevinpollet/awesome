@@ -43,6 +43,7 @@
 - [Messaging](#messaging)
 - [Methodology](#methodology)
 - [Node.js](#nodejs)
+- [Security](#security)
 - [Tools](#tools)
 
 ## Algorithms & Data structures
@@ -84,13 +85,17 @@
 
 - [The Twelve-Factor App](https://12factor.net/) — Adam Wiggins
 - [The Twelve-Factor CLI App](https://medium.com/@jdxcode/12-factor-cli-apps-dd3c227a0e46) — Jeff Dickey
-- [Adding Salt to Hashing: A Better Way to Store Passwords](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/) — Dan Arias
 - [HTTP headers for the responsible developer](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer) — Stefan Judis
 
 ## Node.js
 
 - [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs) — Dominik Kundel
 - [You should never ever run directly against Node.js in production](https://www.freecodecamp.org/news/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6/) — Burke Holland
+
+## Security
+
+- [Adding Salt to Hashing: A Better Way to Store Passwords](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/) — Dan Arias
+- [moz://a SSL Configuration Generator](https://ssl-config.mozilla.org/) — Mozilla
 
 ## Tools
 
