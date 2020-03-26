@@ -97,6 +97,7 @@
 
 - [Adding Salt to Hashing: A Better Way to Store Passwords](https://auth0.com/blog/adding-salt-to-hashing-a-better-way-to-store-passwords/) — Dan Arias
 - [moz://a SSL Configuration Generator](https://ssl-config.mozilla.org/) — Mozilla
+- [moz://a Observatory](https://observatory.mozilla.org/) — Mozilla
 
 ## Tools
 
