@@ -39,6 +39,7 @@
 - [Algorithms & Data structures](#algorithms--data-structures)
 - [Containers](#containers)
 - [Go](#go)
+- [HTTP](#http)
 - [JavaScript](#javascript)
 - [Messaging](#messaging)
 - [Methodology](#methodology)
@@ -75,6 +76,10 @@
 - [The Scheduler Saga](https://www.youtube.com/watch?v=YHRO5WQGh0k) — Kavya Joshi
 - [Understanding Channels](https://www.youtube.com/watch?v=KBZlN0izeiY) — Kavya Joshi
 - [Asynchronous Networking Patterns](https://www.youtube.com/watch?v=afSiVelXDTQ&t=3s) — Filippo Valsorda
+
+## HTTP
+
+- [Head-of-Line Blocking in QUIC and HTTP/3: The Details](https://calendar.perfplanet.com/2020/head-of-line-blocking-in-quic-and-http-3-the-details/) — Robin Marx
 
 ## JavaScript
 
