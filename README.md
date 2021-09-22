@@ -108,6 +108,8 @@
 - [moz://a SSL Configuration Generator](https://ssl-config.mozilla.org/) — Mozilla
 - [moz://a Observatory](https://observatory.mozilla.org/) — Mozilla
 - [What is SNI? How TLS server name indication works](https://www.cloudflare.com/fr-fr/learning/ssl/what-is-sni/) — Cloudflare
+- [How I exploited ACME TLS-SNI-01 issuing Let's Encrypt SSL-certs for any domain using shared hosting](https://labs.detectify.com/2018/01/12/how-i-exploited-acme-tls-sni-01-issuing-lets-encrypt-ssl-certs-for-any-domain-using-shared-hosting/) — Frans Rosén
+
 
 ## Tools
 
