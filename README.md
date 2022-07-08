@@ -123,4 +123,4 @@
 
 ## License <!-- omit in toc -->
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](./LICENSE.md)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](./LICENSE)
