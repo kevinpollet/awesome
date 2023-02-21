@@ -95,6 +95,7 @@ journey.
 - [The Illustrated TLS 1.2 Connection](https://tls12.xargs.org/) — XargsNotBombs
 - [How I exploited ACME TLS-SNI-01 issuing Let's Encrypt SSL-certs for any domain using shared hosting](https://labs.detectify.com/2018/01/12/how-i-exploited-acme-tls-sni-01-issuing-lets-encrypt-ssl-certs-for-any-domain-using-shared-hosting/)
   — Frans Rosén
+- [OAuth 2.0 and OpenID Connect](https://www.youtube.com/watch?v=996OiexHze0&ab_channel=OktaDev) - Nate Barbettini
 
 ## Tools
 
