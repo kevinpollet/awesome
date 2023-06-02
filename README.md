@@ -56,9 +56,10 @@ journey.
 
 ## HTTP
 
+- [Load Balancing](https://samwho.dev/load-balancing) — Sam Rose
 - [Head-of-Line Blocking in QUIC and HTTP/3: The Details](https://calendar.perfplanet.com/2020/head-of-line-blocking-in-quic-and-http-3-the-details/)
   — Robin Marx
-
+  
 ## JavaScript
 
 - [Understanding Hoisting in JavaScript](https://scotch.io/tutorials/understanding-hoisting-in-javascript) — Elizabeth
